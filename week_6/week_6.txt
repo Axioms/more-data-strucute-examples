@@ -1,0 +1,1 @@
+./Debug/src_node1.cpp.o ./Debug/src_list.cpp.o ./Debug/src_try_list_methods.cpp.o ./Debug/src_utility.cpp.o   

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="HomeWorkCode" Database="" Version="10.0.0">
+  <Project Name="bank_account" Path="bank_account/bank_account.project" Active="No"/>
+  <Project Name="quadratic_expression" Path="quadratic_expression/quadratic_expression.project" Active="No"/>
+  <Project Name="sequence" Path="sequence/sequence.project" Active="No"/>
+  <Project Name="polynomial" Path="polynomial/polynomial.project" Active="No"/>
+  <Project Name="week_5" Path="week_5/week_5.project" Active="No"/>
+  <Project Name="week_6" Path="week_6/week_6.project" Active="No"/>
+  <Project Name="week_7" Path="week_7/week_7.project" Active="No"/>
+  <Project Name="week_8" Path="week_8/week_8.project" Active="No"/>
+  <Project Name="week_9" Path="week_9/week_9.project" Active="No"/>
+  <Project Name="week_10_part_2" Path="week_10_part_2/week_10_part_2.project" Active="No"/>
+  <Project Name="week_10_part_1" Path="week_10_part_1/week_10_part_1.project" Active="No"/>
+  <Project Name="week_11_part_1" Path="week_11_part_1/week_11_part_1.project" Active="No"/>
+  <Project Name="week_11_part_2" Path="week_11_part_2/week_11_part_2.project" Active="No"/>
+  <Project Name="week_12_part_1" Path="week_12_part_1/week_12_part_1.project" Active="No"/>
+  <Project Name="week_12_part_2" Path="week_12_part_2/week_12_part_2.project" Active="No"/>
+  <Project Name="week_13" Path="week_13/week_13.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="bank_account" ConfigName="Debug"/>
+      <Project Name="quadratic_expression" ConfigName="Debug"/>
+      <Project Name="sequence" ConfigName="Debug"/>
+      <Project Name="polynomial" ConfigName="Debug"/>
+      <Project Name="week_5" ConfigName="Debug"/>
+      <Project Name="week_6" ConfigName="Debug"/>
+      <Project Name="week_7" ConfigName="Debug"/>
+      <Project Name="week_8" ConfigName="Debug"/>
+      <Project Name="week_9" ConfigName="Debug"/>
+      <Project Name="week_10_part_2" ConfigName="Debug"/>
+      <Project Name="week_10_part_1" ConfigName="Debug"/>
+      <Project Name="week_11_part_1" ConfigName="Debug"/>
+      <Project Name="week_11_part_2" ConfigName="Debug"/>
+      <Project Name="week_12_part_1" ConfigName="Debug"/>
+      <Project Name="week_12_part_2" ConfigName="Debug"/>
+      <Project Name="week_13" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="bank_account" ConfigName="Release"/>
+      <Project Name="quadratic_expression" ConfigName="Release"/>
+      <Project Name="sequence" ConfigName="Release"/>
+      <Project Name="polynomial" ConfigName="Release"/>
+      <Project Name="week_5" ConfigName="Release"/>
+      <Project Name="week_6" ConfigName="Release"/>
+      <Project Name="week_7" ConfigName="Release"/>
+      <Project Name="week_8" ConfigName="Release"/>
+      <Project Name="week_9" ConfigName="Release"/>
+      <Project Name="week_10_part_2" ConfigName="Release"/>
+      <Project Name="week_10_part_1" ConfigName="Release"/>
+      <Project Name="week_11_part_1" ConfigName="Release"/>
+      <Project Name="week_11_part_2" ConfigName="Release"/>
+      <Project Name="week_12_part_1" ConfigName="Release"/>
+      <Project Name="week_12_part_2" ConfigName="Release"/>
+      <Project Name="week_13" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

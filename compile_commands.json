@@ -1,0 +1,261 @@
+[{
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13\\src\\merge.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13\\src\\merge.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13\\src\\merge.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13\\src\\insertion_shell.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13\\src\\insertion_shell.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13\\src\\insertion_shell.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13\\src\\quick.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13\\src\\quick.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_13\\src\\quick.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\heap.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\heap.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\heap.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_simple.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_simple.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_simple.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_heap.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_heap.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_heap.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_heap.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_heap.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_heap.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_simple.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_simple.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\priority_queue_simple.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\heap.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\heap.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_2\\src\\heap.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bintree.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bintree.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bintree.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bintree.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bintree.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bintree.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bst.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bst.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bst.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bst.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bst.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_2\\src\\bst.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9\\src\\sequence_exam4.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9\\src\\sequence_exam4.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9\\src\\sequence_exam4.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9\\src\\sequence4.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9\\src\\sequence4.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9\\src\\sequence4.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9\\src\\sequence4.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9\\src\\sequence4.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_9\\src\\sequence4.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_10_part_1\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_10_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_10_part_1\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_10_part_1\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\deque.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\deque.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\deque.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\node2.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\node2.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\node2.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\node2.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\node2.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\node2.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\deque.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\deque.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_8\\src\\deque.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_10_part_2\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_10_part_2",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_10_part_2\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_10_part_2\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression\\quadraticExpression.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression\\quadraticExpression.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression\\quadraticExpression.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression\\test.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression\\test.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression\\test.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression\\quadraticExpression.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression\\quadraticExpression.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\quadratic_expression\\quadraticExpression.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account\\bankAccount.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account\\bankAccount.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account\\bankAccount.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account\\test.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account\\test.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account\\test.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account\\bankAccount.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account\\bankAccount.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\bank_account\\bankAccount.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bintree.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bintree.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bintree.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\node2.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\node2.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\node2.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bst.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bst.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bst.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\node2.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\node2.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\node2.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bst.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bst.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bst.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bintree.template",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bintree.template\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_12_part_1\\src\\bintree.template\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence\\src\\sequence_test.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence\\src\\sequence_test.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence\\src\\sequence_test.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence\\src\\sequence1.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence\\src\\sequence1.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence\\src\\sequence1.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence\\src\\sequence1.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence\\src\\sequence1.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\sequence\\src\\sequence1.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\expression_tree.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\expression_tree.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\expression_tree.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\binary_tree_node.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\binary_tree_node.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\binary_tree_node.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\expression_tree.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\expression_tree.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\expression_tree.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\binary_tree_node.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\binary_tree_node.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_11_part_1\\src\\binary_tree_node.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\poly0.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\poly0.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\poly0.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\polytest0.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\polytest0.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\polytest0.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\poly0.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\poly0.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\poly0.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\polyexam0.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\polyexam0.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\polynomial\\src\\polyexam0.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5\\src\\node1.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5\\src\\node1.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5\\src\\node1.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5\\src\\node1.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5\\src\\node1.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_5\\src\\node1.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\main.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\main.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\main.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\set.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\set.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\set.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\set.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\set.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\set.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\toolkit.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\toolkit.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\toolkit.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\toolkit.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\toolkit.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_7\\src\\toolkit.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\list.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\list.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\list.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\node1.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\node1.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\node1.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\node1.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\node1.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\node1.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\list.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\list.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\list.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\try_list_methods.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\try_list_methods.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\try_list_methods.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\utility.h",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\utility.h\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\utility.h\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\utility.cpp",
+  "directory": "D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6",
+  "command": "clang  -c \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\utility.cpp\" -o \"D:\\Users\\axiom\\Documents\\drive\\College\\Second Year\\Spring Semester\\Data Structures\\Home Work\\HomeWorkCode\\week_6\\src\\utility.cpp\".o -target x86_64-pc-windows-gnu -I. -I.  -g  -O0  -Wall"
+ }]

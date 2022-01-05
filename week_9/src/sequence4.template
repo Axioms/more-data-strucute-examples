@@ -1,0 +1,103 @@
+/**
+Name: Karan Munday
+Assignment Number: 9
+Class Section: 04
+**/
+#include <cassert>
+#include <cstdlib>
+#include "sequence4.h"
+using namespace main_savitch_6B;
+
+template<class Item>
+sequence<Item>::sequence() {
+	cursor = 0;
+	number_of_items = 0;
+}
+
+template<class Item>
+sequence<Item>::sequence(const sequence<Item>& source) {
+	first = source.first;
+	second = source.second;
+	number_of_items = source.number_of_items;
+	cursor = source.cursor;
+}
+
+template<class Item>
+sequence<Item>::~sequence() {
+
+}
+
+template<class Item>
+void sequence<Item>::start() {
+	if (number_of_items != 0) {
+		cursor = 0;
+		while (first.size() != 1) {
+			second.push(first.top());
+			first.pop();
+		}
+	}
+}
+
+template<class Item>
+void sequence<Item>::advance() {
+	if (second.size() > 0) {
+		first.push(second.top());
+		second.pop();
+	}
+	cursor++;
+}
+
+template<class Item>
+void sequence<Item>::insert(const sequence<Item>::value_type& entry) {
+	if (first.size() > 0 && is_item()) {
+		second.push(first.top());
+		first.pop();
+		first.push(entry);
+	}
+	else if (!is_item()) {
+		while (!first.empty()) {
+			second.push(first.top());
+			first.pop();
+		}
+		first.push(entry);
+		cursor = 0;
+	}
+	else {
+		first.push(entry);
+	}
+	number_of_items++;
+}
+
+template<class Item>
+void sequence<Item>::attach(const sequence<Item>::value_type& entry) {
+	if (!first.empty()) {
+		cursor++;
+	}
+	first.push(entry);
+	number_of_items++;
+}
+
+template<class Item>
+void sequence<Item>::operator = (const sequence<Item>& source) {
+	first = source.first;
+	second = source.second;
+	number_of_items = source.number_of_items;
+	cursor = source.cursor;
+}
+
+template<class Item>
+void sequence<Item>::remove_current() {
+	assert(size() > 0);
+	first.pop();
+	number_of_items--;
+	if (!second.empty()) {
+		first.push(second.top());
+		second.pop();
+	}
+}
+
+template<class Item>
+typename sequence<Item>::value_type sequence<Item>::current() const {
+	assert(is_item());
+	return first.top();
+}
